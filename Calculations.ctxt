@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculations()
+comment1.params=entry\ exit
+comment1.target=void\ setRiskPips(double,\ double)
+comment2.params=
+comment2.target=double\ getRiskPips()
+comment3.params=riskPercentage\ balance
+comment3.target=void\ setRiskAmt(double,\ double)
+comment4.params=
+comment4.target=double\ getRiskAmt()
+comment5.params=riskpips
+comment5.target=void\ setRiskPerLot(double)
+comment6.params=
+comment6.target=double\ getRiskPerLot()
+comment7.params=riskAmt\ riskPerLot
+comment7.target=void\ setLotSize(double,\ double)
+comment8.params=
+comment8.target=double\ getLotSize()
+numComments=9
